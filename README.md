@@ -45,9 +45,9 @@ The extracted email:password pairs will be saved in the `db_extracted.txt` file.
 
 1. Add desired domain filters to `search_config.txt`:
 
-`.fr
-.com
-web.de`
+`.fr`
+`.com`
+`web.de`
 
 2. Set the email:password pair separator in `split_config.txt`:
 
