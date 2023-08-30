@@ -1,0 +1,6 @@
+example@gmail.com:password
+example@free.fr:password
+example@proton.me:password
+example@protonmail.com:password
+example@orange.fr
+example@yahoo.com
