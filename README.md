@@ -21,7 +21,7 @@ Extractor is a Python program designed to extract email:password pairs from a da
    
 2. **Clone Repository**: Clone this repository to your local machine.
 
-git clone https://github.com/DxSper/Extractor.git
+`git clone https://github.com/DxSper/Extractor.git`
 
 3. **Configuration**:
 - Configure your search criteria by adding domain entries to the `search_config.txt` file, with one domain per line.
@@ -29,7 +29,7 @@ git clone https://github.com/DxSper/Extractor.git
 
 4. **Running the Program**:
 
-python extractor.py
+`python extractor.py`
 
 Follow the prompts and let the program filter and extract the email:password pairs.
 
